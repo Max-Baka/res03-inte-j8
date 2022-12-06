@@ -1,0 +1,20 @@
+@media (max-width : 768px){
+body{
+    flex-direction: column;
+    text-align: center;
+    background-image:linear-gradient(to top, rgba(165, 55, 253, 1),
+    rgba(0, 181, 204, 1));
+    height: 60vh;
+    
+    header{
+        color: white;
+    }
+    section{
+        
+        ul{
+            list-style-type: none;
+            margin-left: 0;
+        }
+    }
+}
+}

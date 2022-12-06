@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+  body {
+    flex-direction: column;
+    text-align: center;
+    background-image: linear-gradient(to top, rgb(165, 55, 253), rgb(0, 181, 204));
+    height: 60vh;
+  }
+  body header {
+    color: white;
+  }
+  body section ul {
+    list-style-type: none;
+    margin-left: 0;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
